@@ -38,7 +38,12 @@ body {
 
 .content { height: 90%; }
 
-.sub { height: 10%; }
+.sub {
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
 
 h1, h2 { text-align: center; }
 
