@@ -29,9 +29,11 @@ a {
   padding: 4%;
 }
 
+h2 { color: #36638A; }
+
 .inner-wrapper {
   display: flex;
   justify-content: center;
 }
 
-.sub { margin-top: 4%; }
+.sub { margin-top: 6%; }
