@@ -25,18 +25,13 @@ a {
   width: 100%;
   color: #F9F9F9;
   text-decoration: none;
-  /*text-align: center;*/
   font-size: 22px;
   padding: 4%;
 }
-
-/*.sub {
-  text-align: center;
-}*/
-
-/*h1, h2 { text-align: center; }*/
 
 .inner-wrapper {
   display: flex;
   justify-content: center;
 }
+
+.sub { padding-top: 2%; }
