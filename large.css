@@ -48,7 +48,10 @@ h1, h2 { text-align: center; }
   height: 90vh;
 }
 
-body { margin: 0; }
+html, body {
+  margin: 0;
+  padding: 0;
+}
 
 .sub {
   display: flex;
@@ -56,3 +59,5 @@ body { margin: 0; }
   align-items: flex-start;
   height: 10vh;
 }
+
+.footer a { margin-top: 5%; }
