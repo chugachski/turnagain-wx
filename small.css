@@ -29,7 +29,7 @@ a {
   padding: 4%;
 }
 
-html { height: 100%; }
+/*html { height: 100%; }
 
 body {
   height: 100%;
@@ -43,7 +43,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-}
+}*/
 
 h1, h2 { text-align: center; }
 
