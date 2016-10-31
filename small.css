@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   font-family: 'Fjalla One', sans-serif;
+  text-align: center;
 }
 
 .block { width: 14em; }
@@ -24,16 +25,16 @@ a {
   width: 100%;
   color: #F9F9F9;
   text-decoration: none;
-  text-align: center;
+  /*text-align: center;*/
   font-size: 22px;
   padding: 4%;
 }
 
-.sub {
+/*.sub {
   text-align: center;
-}
+}*/
 
-h1, h2 { text-align: center; }
+/*h1, h2 { text-align: center; }*/
 
 .inner-wrapper {
   display: flex;
