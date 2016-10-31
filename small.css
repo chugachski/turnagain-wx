@@ -1,4 +1,7 @@
-* { box-sizing: border-box; }
+* {
+  box-sizing: border-box;
+  font-family: 'Fjalla One', sans-serif;
+}
 
 .block { width: 14em; }
 
