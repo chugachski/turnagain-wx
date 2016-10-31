@@ -33,8 +33,24 @@ a {
   padding: 3%;
 }
 
-/*@media screen and (max-width: 800px) {
+/*h1, h2 {
+  text-align: left;
+}
+
+.wrapper {
+  display: block;
+  justify-content: left;
+}*/
+
+/*@media screen and (min-width: 800px) {
   body {
-    width: 75%;
+    background-color: #CCC;
+  }
+}*/
+
+/*@media screen and (max-width: 800px) {
+  .wrapper {
+    display: flex;
+    justify-content: center;
   }
 }*/
