@@ -29,13 +29,14 @@ a {
   padding: 4%;
 }
 
+.footer a {
+  color: #000;
+  font-size: 16px;
+}
+
 .inner-wrapper {
   display: flex;
   justify-content: center;
 }
 
 .sub { margin-top: 7%; }
-
-img {
-  height: 10px;
-}
