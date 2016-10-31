@@ -10,7 +10,7 @@ ul { padding: 0; }
 li {
   background-color: #008B8B;
   border-radius: 6px;
-  margin: 3%;
+  margin: 4%;
   list-style: none;
 }
 
@@ -26,8 +26,19 @@ a {
   text-decoration: none;
   text-align: center;
   font-size: 22px;
-  padding: 3%;
+  padding: 4%;
 }
+
+html { height: 100%; }
+
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.content { height: 90%; }
+
+.sub { height: 10%; }
 
 h1, h2 { text-align: center; }
 

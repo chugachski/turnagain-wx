@@ -34,7 +34,20 @@ h1, h2 { text-align: center; }
   display: inline-block;
 }
 
-.content {
+.main {
   display: flex;
   justify-content: space-around;
+}
+
+.content {
+  height: 90vh;
+}
+
+body { margin: 0; }
+
+.sub {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 10vh;
 }
